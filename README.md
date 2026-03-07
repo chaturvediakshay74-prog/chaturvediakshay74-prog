@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 Akshay Chaturvedi
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaturvediakshay74@gmail.com) 
